@@ -1,4 +1,4 @@
-# Project P2 : Utilisez les bases de Python pour l'analyse de marché
+# Project P2
 
 ## Steps to install the environment:
 ```
