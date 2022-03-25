@@ -12,7 +12,7 @@ https://www.python.org/downloads/
 python -m venv env
 source env/bin/activate
 
-* Install some specific packets this virtual environment
+* Install some specific packets on this virtual environment
 pip install -r requirements.txt
 ```
 
