@@ -10,7 +10,7 @@ https://www.python.org/downloads/
 
 * Use a virtual environment
 python -m venv env
-source env/bin/activate
+source env/Scripts/activate
 
 * Install some specific packets on this virtual environment
 pip install -r requirements.txt

@@ -1,3 +1,4 @@
 env/
 extract/
 OCR_PYTHON_P2.code-workspace
+*.bak
